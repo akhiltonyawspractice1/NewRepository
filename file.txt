@@ -1,0 +1,3 @@
+
+"vi filename" is used to create a file and add text whilie working on GIT.
+
